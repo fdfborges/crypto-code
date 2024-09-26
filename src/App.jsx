@@ -4,6 +4,7 @@ import Navbar from "./components/navbar/Navbar";
 import Pricing from "./components/pricing/Pricing";
 import Earnings from "./components/earnings/earnings";
 import Status from "./components/status/status";
+import Subscribe from "./components/subscribe/Subscribe";
 
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
   <Pricing />
   <Earnings />
   <Status />
+  <Subscribe />
   
     </>
   )
