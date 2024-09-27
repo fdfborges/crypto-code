@@ -28,4 +28,4 @@ const Earnings = () => {
     )
 }
 
-export default Earnings;
+export default Earnings
